@@ -12,8 +12,8 @@ But don't worry, I'll learn in no time! I catch up quickly 😃
 ### 📫 How to reach me:
 [<img align="left" alt="twittersvg | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter] <a href="https://twitter.com/hi_im_beasty rel= nofollow">Twitter</a>
 <br />
-[<img align="left" alt="telegramsvg | Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />][telegram] <a href="https://telegram.im/hi_im_beasty rel= nofollow">Telegram</a>
+[<img align="left" alt="telegramsvg | Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />][telegram] <a href="https://t.me/hi_im_beasty rel= nofollow">Telegram</a>
 <br />
 
 [twitter]: https://twitter.com/hi_im_beasty
-[telegram]: https://telegram.im/hi_im_beasty
+[telegram]: https://t.me/hi_im_beasty
