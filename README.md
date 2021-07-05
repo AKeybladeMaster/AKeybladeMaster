@@ -12,6 +12,7 @@ But don't worry, I'll learn in no time! I catch up quickly 😃
 ### 📫 How to reach me:
 [<img align="left" alt="twittersvg | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter] Twitter
 <br />
+<br />
 [<img align="left" alt="telegramsvg | Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />][telegram] Telegram
 <br />
 
