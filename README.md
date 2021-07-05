@@ -10,9 +10,9 @@ But don't worry, I'll learn in no time! I catch up quickly 😃
 🔭 I’m currently working on some tiny projects, but a big one will appear from the shadows soon 😨
 
 ### 📫 How to reach me:
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] Twitter
+[<img align="left" alt="twittersvg | Twitter" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F10%2F19095654%2FTwitter-icon-horizontal.jpg&f=1&nofb=1" />][twitter] Twitter
 <br />
-[<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram] Telegram
+[<img align="left" alt="telegramsvg | Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />][telegram] Telegram
 <br />
 
 [twitter]: https://twitter.com/hi_im_beasty
