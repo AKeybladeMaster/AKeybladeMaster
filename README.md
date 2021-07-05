@@ -1,16 +1,16 @@
 ### Hi there 👋
+Heya, I'm Beasty (20 y.o.), currently studying at @Unimib. Games and food lover, but also looking to be a game dev!
 
-<!--
-**TheNoobieDev/TheNoobieDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Basically, a noobie dev 😥
+But don't worry, I'll learn in no time! I catch up quickly 😃
+🌱 Currently learning Java, Python and C++
 
-Here are some ideas to get you started:
+### What about work?
+🔭 I’m currently working on some tiny projects, but a big one will appear from the shadows soon 😨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 How to reach me:
+[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter] - [<img align="left" alt="codeSTACKr | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+<br />
+
+[twitter]: https://twitter.com/hi_im_beasty
+[telegram]: https://telegram.im/hi_im_beasty
