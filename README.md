@@ -10,7 +10,7 @@ But don't worry, I'll learn in no time! I catch up quickly 😃
 🔭 I’m currently working on some tiny projects, but a big one will appear from the shadows soon 😨
 
 ### 📫 How to reach me:
-[<img align="left" alt="twittersvg | Twitter" width="22px" src="https://external-content.duckduckgo.com/iu/?u=http%3A%2F%2Fimages.hellogiggles.com%2Fuploads%2F2016%2F10%2F19095654%2FTwitter-icon-horizontal.jpg&f=1&nofb=1" />][twitter] Twitter
+[<img align="left" alt="twittersvg | Twitter" width="22px" src="https://image.flaticon.com/icons/png/512/145/145812.png" />][twitter] Twitter
 <br />
 [<img align="left" alt="telegramsvg | Telegram" width="22px" src="https://telegram.org/img/t_logo.svg?1" />][telegram] Telegram
 <br />
