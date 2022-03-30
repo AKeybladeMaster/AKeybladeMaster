@@ -1,5 +1,5 @@
 ### Hi there 👋
-Heya, I'm Beasty (20 y.o.), currently studying at @Unimib. Games and food lover, but also looking to be a game dev!
+Heya, I'm Beasty, currently studying at @Unimib. Games and food lover, but also looking to be a game dev!
 
 ### Basically, a noobie dev 😥
 But don't worry, I'll learn in no time! I catch up quickly 😃
