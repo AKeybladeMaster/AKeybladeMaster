@@ -15,6 +15,11 @@ I'm interested in future roles as a backend developer, fullstack developer, or b
 
 <b>Data</b>: MongoDB, PostgreSQL, Trino, Apache Spark, Apache NiFi, Apache Atlas, Solr, Hive, pandas
 
-<b>Frontend</b>: React 17, Angular 14
+<b>Frontend</b>: React 17, Angular 21
 
 <b>DevOps & tooling</b>: Docker, Jenkins, MinIO, Kafka, Git, shell workflows
+
+<h2>Additional skills</h2>
+Design patterns enjoyer, clean code architecture writer, knowledge hungry, able to adapt to every kind of new tech stack
+
+Remember: "There are no hard things, only things that I still don't know to do, but that I can always learn"
