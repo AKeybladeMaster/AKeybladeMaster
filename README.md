@@ -20,6 +20,7 @@ I'm interested in future roles as a backend developer, fullstack developer, or b
 <b>DevOps & tooling</b>: Docker, Jenkins, MinIO, Kafka, Git, shell workflows
 
 <h2>Additional skills</h2>
+
 Design patterns enjoyer
 
 Clean code architecture writer
